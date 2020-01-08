@@ -1,1 +1,1 @@
-My name is Joshua.  I'm not sure what to put here.  I like giraffes...?
+I have a background in the Nuclear Engineering program.  I enjoy technology and travel.
