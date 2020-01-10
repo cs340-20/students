@@ -1,0 +1,1 @@
+I am Bryceton Bible, I'm a junior of Computer Science. I like designing web based backend software, and learning languages. I speak English, Japanese, and Esperanto. I'm currently studying Chinese. I am looking forward to learning a lot this year.
