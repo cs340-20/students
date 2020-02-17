@@ -1,3 +1,2 @@
-Hello, my name is Sammy Awad. I am a CS student in my 3rd year. I first started in Pellissippi State Community College. I am looking forward to a great semester.
-
-http://35.225.177.162/
+Hello, my name is Sammy Awad. I am a junior at UT studying computer science. I am a transfer student from Pellissippi. I am looking forward to a great semester.
+http://104.198.165.11/
