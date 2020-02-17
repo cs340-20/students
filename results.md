@@ -1,4 +1,8 @@
 # results for automatic build
+
+# no IP for dnguye18 oiqbal szimmer9 zables
+
+
 |Row|netid|IP|Response|
 |--|-----|--|--------|
 |1|bbible3.md|35.185.77.169|<html> <body> Bryceton Bible Update </body> </html>|
